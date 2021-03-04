@@ -10,6 +10,7 @@ package Cuenta;
 /**
  *
  * @author Marius Magda
+ * Visto
  */
 public class CCuenta {
         
